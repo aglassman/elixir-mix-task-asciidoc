@@ -1,5 +1,5 @@
 # Asciidoc Mix Task
-I've alwyas really liked using [Asciidoctor](https://asciidoctor.org/) to generate internal documentation.  While ex_doc is really great, 
+I've always really liked using [Asciidoctor](https://asciidoctor.org/) to generate internal documentation.  While ex_doc is really great, 
 I like the portability and available plugins for Asciidoctor.  This is definitely not meant to replase ex_doc as
 it has it's place, and I think asciidoc has it's own purposes.
 
