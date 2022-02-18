@@ -1,6 +1,6 @@
 # Asciidoc Mix Task
 I've always really liked using [Asciidoctor](https://asciidoctor.org/) to generate internal documentation.  While ex_doc is really great, 
-I like the portability and available plugins for Asciidoctor.  This is definitely not meant to replase ex_doc as
+I like the portability and available plugins for Asciidoctor.  This is definitely not meant to replace ex_doc as
 it has it's place, and I think asciidoc has it's own purposes.
 
 I'm also a big fan of [PlantUML](https://plantuml.com/), so I've set the tasks to generate any included PlantUML files.
